@@ -19,5 +19,3 @@ def findLargest(largest=10000):
 			if isPalindrome(test) and test > largest:
 				largest = test
 	return largest
-	
-# CURRENT PROBLEM:  only testing factors which are 1 apart
